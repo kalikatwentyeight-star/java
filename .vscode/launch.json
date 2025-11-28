@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "java_2082_1bf2ee02"
+        },
+        {
+            "type": "java",
+            "name": "MatrixMul",
+            "request": "launch",
+            "mainClass": "MatrixMul",
+            "projectName": "java_2082_1bf2ee02"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
